@@ -30,7 +30,7 @@
 
 ## 🛠️ Technologies and Tools I use:
 
-<p>
+<p align="center">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -61,7 +61,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://satyajit-samal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Satyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="30px"/></a>
+<p align="center"><a href="https://satyajit-samal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Satyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="30px"/></a>
  <a href="https://www.linkedin.com/in/satyajitsamal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:satyajit.speaks@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a><a href="https://vercel.com/satyajit-samals-projects" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  height="30px"/></a><a href="https://discord.com/users/1015847957674864771" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  height="30px"/></a>
 </p>
 
