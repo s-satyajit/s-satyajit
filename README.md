@@ -62,7 +62,7 @@
 ## ❤️ Let's get connected:
 
 <p align="center"><a href="https://satyajit-samal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Satyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=x&logoColor=white" height="30px"/></a>
- <a href="https://www.linkedin.com/in/satyajitsamal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:satyajit.speaks@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a><a href="https://vercel.com/satyajit-samals-projects" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  height="30px"/></a><a href="https://discord.com/users/1015847957674864771" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  height="30px"/></a>
+ <a href="https://www.linkedin.com/in/satyajitsamal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="mailto:satyajitsamal.workmail@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a><a href="https://vercel.com/satyajit-samals-projects" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"  height="30px"/></a><a href="https://discord.com/users/1015847957674864771" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  height="30px"/></a>
 </p>
 
 
@@ -72,3 +72,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=s-satyajit&show_icons=true&theme=dracula" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-satyajit&theme=dracula" alt="satyajit" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20views&color=0e75b6&style=flat" alt="qzseeker" /> </p>
