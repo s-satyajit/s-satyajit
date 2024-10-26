@@ -73,6 +73,10 @@
 
 ## 📊 My GitHub Stats
 
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-satyajit&theme=dracula" />
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-satyajit&theme=dracula)
 
 
