@@ -74,10 +74,10 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-satyajit&theme=dracula" />
+  <div style="display: flex; justify-content: flex-end">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-satyajit&theme=dracula" />
+  </div>
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-satyajit&theme=dracula)
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20views&color=0e75b6&style=flat" alt="qzseeker" /> </p> -->
