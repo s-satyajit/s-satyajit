@@ -23,9 +23,9 @@
 
 <!-- - 💬 Ask me about anything, Except Maths :sweat_smile: -->
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 **Life Hack:** Learn new tech and share what you have learned. 
 
-<!-- - ⚡ Fun fact: I waste most of my time reading novels -->
+- ⚡ **LIttle bit about me:** I love getting lost in adventure novels like [`The Alchemist`](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝 
 
 
 ## 🛠️ Technologies and Tools I use:
