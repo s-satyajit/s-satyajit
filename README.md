@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello, I'm Satyajit Samal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align:bottom;">  | Full-stack Developer | Passionate About React & Backend Technologies 👨‍💻</h1>
+<h1 align="center">Hello, I'm Satyajit Samal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align:middle;"></h1>
 
 
 <!-- <div align="center">
