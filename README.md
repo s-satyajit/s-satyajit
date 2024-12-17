@@ -1,4 +1,7 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Satyajit Samal</h1>
+
+
+<h1 align="center">Hello, I'm Satyajit Samal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align:bottom;">  | Full-stack Developer | Passionate About React & Backend Technologies 👨‍💻</h1>
+
 
 <!-- <div align="center">
   <img src ="./banner.png" />
@@ -9,68 +12,92 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="250" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://satyajit-samal.vercel.app/)**
+- 💡 **Learning:** Currently building full-stack applications with `React` & `Node.js`, diving deeper into backend technologies like `Express` and `MongoDB`
 
-- 🔭 I’m currently working on `Something Interesting`.
+- 👨‍💻 I’m looking to collaborate for `Dev Projects`
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🤝 I enjoy working with teams to create meaningful project and solve problems together
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 💻 I also work with `Java` and solve `DSA questions` to improve my problem-solving skills.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+<!-- - 🤔 I’m looking for help with `Competitive Programming` -->
 
-<!-- - 💬 Ask me about anything, Except Maths :sweat_smile: -->
+- ✨ **Life Hack:** Learn new tech and share what you have learned. 
 
-- 👨‍💻 **Life Hack:** Learn new tech and share what you have learned. 
+- 🙋‍♂️ Discover more about me at **[My Website](https://satyajit-samal.vercel.app/)**
 
-- ⚡ **Past the code:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝 
+<!-- - ⚡ **Past the code:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝  -->
 
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ My Tech Stack:
 
-<p align="center">
+### **Languages:**
+<h4>🖥️ Mastering core languages for front-end & backend development</h4>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"  height="25px"/>
+<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  height="25px"/>
+<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  height="25px"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <!-- <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/> -->
 <!-- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/> -->
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+
+### **Frameworks & Libraries:** 
+<h4>⚡ Building responsive UIs and efficient apps with...</h4>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <!-- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/> -->
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <!-- <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/> -->
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <!-- <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/> -->
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25px"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25px"/>
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25px"/>
 <!-- <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0078d7?style=for-the-badge&logo=ci-cd&logoColor=white" height="25px"/> -->
-<!-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px"/> -->
+
+### **Backend (Building While Learning):**
+<h4>🚀 Actively building projects on... </h1>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="REST API" src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge&logo=rest&logoColor=white" height="25px"/>
 
 
-## ❤️ Let's get connected:
 
-<p align="center"><a href="https://satyajit-samal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Satyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt"><img alt="X" src="https://img.shields.io/badge/-@satyajitstwt-black?style=flat-square&logo=X" height="30px"></a>
-<a href="https://www.linkedin.com/in/satyajitsamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satyajit%20Samal-blue?style=flat-square&logo=linkedin" height="30px"></a> <a href="mailto:satyajitsamal.workmail@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-satyajitsamal.workmail@gmail.com-white?style=flat-square&logo=gmail"  height="30px"/></a><a href="https://discord.com/users/satyajit_samal" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-satyajit__samal-Blurple?style=flat-square&logo=discord"  height="30px"/></a>
-</p>
+### **Tools & Platforms:**
+<h4>🔧 Leveraging the best tools for version control, collaboration, and deployment</h4>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25px"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"  height="25px"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  height="25px"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"  height="25px"/>
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"  height="25px"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px"/>
+
+### **Problem Solving:**
+<h4>💡 Solving algorithmic challenges and enhancing my problem-solving skills in Java</h4>
+<img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25px"/>
+<img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="25px"/>
+<!-- <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/> -->
 
 
-<!-- ## 📊 My GitHub Data:
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=s-satyajit&show_icons=true&theme=dracula" /> <br> <br> -->
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-satyajit&theme=dracula" alt="satyajit" /> -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=s-satyajit&show_icons=true&theme=dracula" /> <br> <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-satyajit&theme=dracula" alt="satyajit" />
 </div>
 
+## ❤️ Let's get connected:
+<h3 align="center">Let's collaborate on exciting projects! Feel free to connect with me via:</h4> 
+
+<p align="center"><a href="https://satyajit-samal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio | Satyajit-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt"><img alt="X" src="https://img.shields.io/badge/-@satyajitstwt-black?style=flat-square&logo=X" height="30px"></a>
+<a href="https://www.linkedin.com/in/satyajitsamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satyajit%20Samal-blue?style=flat-square&logo=linkedin" height="30px"></a> <a href="mailto:satyajitsamal.workmail@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-satyajitsamal.workmail@gmail.com-white?style=flat-square&logo=gmail"  height="30px"/></a><a href="https://discord.com/users/satyajit_samal" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-satyajit__samal-Blurple?style=flat-square&logo=discord"  height="30px"/></a>
+
+
+
+</p>
+
+<!-- For Icons -->
+<!-- https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20views&color=0e75b6&style=flat" alt="qzseeker" /> </p> -->
