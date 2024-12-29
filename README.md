@@ -26,7 +26,7 @@
 
 - ✨ **Life Hack:** Learn new tech and share what you have learned. 
 
-- 🙋‍♂️ Discover more about me at **[My Website](https://satyajit-samal.vercel.app/)**
+- 🙋‍♂️ Discover more about me at **[My Website](https://satyajitsamal.vercel.app/)**
 
 <!-- - ⚡ **Past the code:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝  -->
 
