@@ -1,7 +1,8 @@
 
 
-<h1 align="center">Hello, I'm Satyajit Samal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align: sub; "></h1>
+<h1>Hello Fellow  &ltDevelopers/&gt <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align: sub; "></h1>
 
+<div size="20px">My name is Satyajit Samal. I am an engineering graudate and currently working as a software engineer. I am interested in Web Technologies, OpenSource and Problem Solving, thank you for taking the time to view my GitHub Profile</div>
 
 <!-- <div align="center">
   <img src ="./banner.png" />
