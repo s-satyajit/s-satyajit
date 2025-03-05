@@ -52,8 +52,6 @@
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<!-- <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/> -->
-<!-- <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/> -->
 </p>
 
 ### **Backend (Building While Learning):**
@@ -73,7 +71,6 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  height="25px"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"  height="25px"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  height="25px"/>
-<!-- <img alt="F.logoColor=white"  height="25px"/> -->
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"  height="25px"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px"/>
 <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0078d7?style=for-the-badge&logo=ci-cd&logoColor=white" height="25px"/>
@@ -84,16 +81,15 @@
 <p>
 <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25px"/>
 <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="25px"/>
-<!-- <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/> -->
 </p>
 
 
-<!-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=s-satyajit&show_icons=true&theme=dracula" /> <br> <br>
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-satyajit&theme=dracula" alt="satyajit" /> -->
-<!-- </div>  -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-satyajit&theme=dracula" alt="satyajit" />
+</div> 
 
 ## ❤️ Let's get connected:
 <h3 align="center">Let's collaborate on exciting projects! Feel free to connect with me via:</h4> 
@@ -101,12 +97,4 @@
 <p align="center"><a href="https://satyajitsamal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio | Satyajit-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt"><img alt="X" src="https://img.shields.io/badge/-@satyajitstwt-black?style=flat-square&logo=X" height="30px"></a>
 <a href="https://www.linkedin.com/in/satyajitsamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satyajit%20Samal-blue?style=flat-square&logo=linkedin" height="30px"></a> <a href="mailto:satyajitsamal.workmail@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-satyajitsamal.workmail@gmail.com-white?style=flat-square&logo=gmail"  height="30px"/></a><a href="https://discord.com/users/satyajit_samal" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-satyajit__samal-Blurple?style=flat-square&logo=discord"  height="30px"/></a>
 
-
-
 </p>
-
-<!-- For Icons -->
-<!-- https://github.com/Ileriayo/markdown-badges/blob/master/README.md -->
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20views&color=0e75b6&style=flat" alt="qzseeker" /> </p> -->
