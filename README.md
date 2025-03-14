@@ -32,7 +32,7 @@
 <!-- - ⚡ **Past the code:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝  -->
 
 
-<!-- ## 🛠️ My Tech Stack:
+## 🛠️ My Tech Stack:
 
 ### **Languages:**
 <h4>🖥️ Mastering core languages for front-end & backend development</h4>
@@ -81,7 +81,7 @@
 <p>
 <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25px"/>
 <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="25px"/>
-</p> -->
+</p>
 
 
 <!-- ## 📊 GitHub Stats:
