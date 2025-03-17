@@ -84,10 +84,10 @@
 </p> -->
 
 
- ## 📊 GitHub Stats:
+ <!-- ## 📊 GitHub Stats:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=s-satyajit&show_icons=true&theme=dracula" /> <br> <br>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=s-satyajit&show_icons=true&theme=dracula" /> <br> <br> -->
 
   <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-satyajit&theme=dracula" alt="satyajit" /> -->
   
