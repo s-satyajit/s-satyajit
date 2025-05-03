@@ -2,7 +2,7 @@
 
 <h1>Hello Fellow  &ltDevelopers/&gt <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align: sub; "></h1>
 
-<div size="20px">My name is Satyajit Samal. I am an engineering graudate and currently working as a software engineer. I am interested in Web Technologies, OpenSource and Problem Solving, thank you for taking the time to view my GitHub Profile</div>
+<div size="20px">My name is Satyajit Samal. I am an engineering graudate and currently working as a software engineer. I am interested in Web Technologies, Open Source and Problem Solving, thank you for taking the time to view my GitHub Profile</div>
 
 <!-- <div align="center">
   <img src ="./banner.png" />
@@ -29,7 +29,7 @@
 
 - 🙋‍♂️ Discover more about me at **[My Website](https://satyajitsamal.vercel.app/)**
 
-<!-- - ⚡ **Past the code:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝  -->
+- ⚡ **Beyond coding:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝 
 
 
 <!-- ## 🛠️ My Tech Stack:
