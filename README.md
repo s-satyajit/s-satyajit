@@ -11,7 +11,7 @@
 
  <br/>
 
-<!-- ## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="250" align="right" />
 
@@ -23,13 +23,13 @@
 
 - 💻 I also work with `Java` and solve `DSA questions` to improve my problem-solving skills. -->
 
-<!-- - 🤔 I’m looking for help with `Competitive Programming` -->
-<!-- 
-- ✨ **Life Hack:** Learn new tech and share what you have learned. 
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- ✨ **Life Hack:** Learn new tech and share what you have learned.
 
 - 🙋‍♂️ Discover more about me at **[My Website](https://satyajitsamal.vercel.app/)**
 
-- ⚡ **Beyond coding:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝  -->
+- ⚡ **Beyond coding:** I love getting lost in adventure novels like [**`The Alchemist`**](https://en.wikipedia.org/wiki/The_Alchemist_(novel))✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝 
 
 
 <!-- ## 🛠️ My Tech Stack:
@@ -93,7 +93,7 @@
   
 </div> -->
 
-```javascript
+<!-- ```javascript
 import express from "express";
 import dotenv from "dotenv";
 import helmet from "helmet";
@@ -172,7 +172,7 @@ const server = app.listen(PORT, () => {
 });
 
 
-```
+``` -->
 
 ## ❤️ Let's get connected:
 <h3 align="center">Let's collaborate on exciting projects! Feel free to connect with me via:</h4> 
