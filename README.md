@@ -21,7 +21,7 @@
 
 - 🤝 I enjoy working with teams to create meaningful project and solve problems together
 
-- 💻 I also work with `Java` and solve `DSA questions` to improve my problem-solving skills. -->
+- 💻 I also work with `Java` and solve `DSA questions` to improve my problem-solving skills.
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
