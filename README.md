@@ -180,8 +180,8 @@ const server = app.listen(PORT, () => {
 <p align="center"><a href="https://satyajitsamal.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio | Satyajit-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://x.com/satyajitstwt"><img alt="X" src="https://img.shields.io/badge/-@satyajitstwt-black?style=flat-square&logo=X" height="30px"></a>
 <a href="https://www.linkedin.com/in/satyajitsamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satyajit%20Samal-blue?style=flat-square&logo=linkedin" height="30px"></a> <a href="mailto:satyajitsamal.workmail@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-satyajitsamal.workmail@gmail.com-white?style=flat-square&logo=gmail"  height="30px"/></a><a href="https://discord.com/users/satyajit_samal" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-satyajit__samal-Blurple?style=flat-square&logo=discord"  height="30px"/></a>
 
-  <p align="center">
+<!--  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>   
+</p>   -->
 
 </p>
