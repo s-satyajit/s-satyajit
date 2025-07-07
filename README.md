@@ -1,4 +1,5 @@
-<h1>Hello Fellow  &ltDevelopers/&gt <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align: sub; "></h1>
+<h1>Hello Fellow  &ltDevelopers/&gt </h1>
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  height="35px" style="vertical-align: sub; "> -->
 
 <div size="20px">My name is Satyajit Samal. I am an engineering graudate and currently working as a software engineer. I am interested in Web Technologies, Open Source and Problem Solving, thank you for taking the time to view my GitHub Profile</div>
 
@@ -11,7 +12,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="250" align="right" />
+<!-- <img  src="./thoughtworks-gif_dribbble.gif" height="250" align="right" /> -->
 
 - 💡 **Learning:** Currently building full-stack applications with `React` & `Node.js`, diving deeper into backend technologies like `Express` and `MongoDB`
 
@@ -178,7 +179,7 @@ const server = app.listen(PORT, () => {
 <a href="https://www.linkedin.com/in/satyajitsamal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Satyajit%20Samal-blue?style=flat-square&logo=linkedin" height="30px"></a> <a href="mailto:satyajitsamal.workmail@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-satyajitsamal.workmail@gmail.com-white?style=flat-square&logo=gmail"  height="30px"/></a><a href="https://discord.com/users/satyajit_samal" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-satyajit__samal-Blurple?style=flat-square&logo=discord"  height="30px"/></a>
 <br> </br>
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20Views&color=0e75b6&style=flat" height="30px" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=s-satyajit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 </p>
