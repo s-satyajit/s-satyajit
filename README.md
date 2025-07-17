@@ -22,11 +22,11 @@
 
 - 💻 I also work with `Java` and solve `DSA questions` to improve my problem-solving skills.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+<!-- - 🤔 I’m looking for help with `Competitive Programming` -->
 
 - ✨ **Life Hack:** Learn new tech and share what you have learned.
 
-- 🙋‍♂️ Discover more about me at **[My Website](https://satyajitsamal.vercel.app/)**
+- 🙋‍♂️ Discover more about me at **[My Website](https://satyajit-samal.vercel.app/)**
 
 - ⚡ **Beyond coding:** I love getting lost in adventure novels like [**`The Alchemist`**](<https://en.wikipedia.org/wiki/The_Alchemist_(novel)>)✨ If you share the same taste in books, perhaps we'll meet as book buddies in Bangalore libraries! 📚🤝
 
