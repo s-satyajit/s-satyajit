@@ -29,7 +29,7 @@
 - 🔹 **TeamZen** – Team management platform with integrated task recommendations (ML-driven)  
 - 🔹 **Payment App** – Secure transactions app, exploring anomaly detection for fraud prevention  
 
----
+<!-- ---
 
 ## 🧩 Sample Code Snippet
 ```python
@@ -38,7 +38,7 @@ from transformers import pipeline
 qa = pipeline("question-answering", model="deepset/roberta-base-squad2")
 res = qa(question="What is RAG?", context="RAG stands for Retrieval-Augmented Generation, combining LLMs with external knowledge.")
 print(res["answer"])
-```
+``` -->
 
 ---
 
